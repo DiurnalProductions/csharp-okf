@@ -1,0 +1,8 @@
+{
+  "id": "csharp-okf",
+  "name": "C# Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for C# and .NET (language fundamentals, runtime behavior, async, generics, and ecosystem)",
+  "entry": "index.md",
+  "tags": ["csharp", "dotnet", "programming", "async", "oop"]
+}
